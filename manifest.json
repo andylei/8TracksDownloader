@@ -1,0 +1,12 @@
+{
+  "name": "Amir's 8Track Downloader",
+  "version": "0.9",
+  "description": "Adds a suite of features to 8Tracks.com",
+  "manifest_version": 2,
+  "content_scripts": [
+    {
+      "matches":["http://*.8tracks.com/*"],
+      "js": ["script.js"]
+    }
+  ]
+}

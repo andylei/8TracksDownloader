@@ -1,7 +1,7 @@
 8TracksDownloader
 =================
 
-Adds a suite of features to 8Tracks, among them the ability to download a song.
+A javascript extension that extends the functionality of 8Tracks.com by allowing individual song downloads among other improvements.
 
 <h1>Installation Guide</h1>
 <h2>Firefox</h2>
