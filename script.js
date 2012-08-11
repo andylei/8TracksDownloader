@@ -198,7 +198,7 @@ var Amirs8TracksDownloader = function() {
 
   // Prepare elements
   var $container = $('<div id="amirs8trackdownloader"><h4>Amir\'s 8Track Downloader</h1></div>');
-  $container.append('<p>Version 1.0 <a href="http://userscripts.org/scripts/show/125828" target="_blank" style="float:right;">Check for Update</a></p>');
+  $container.append('<p>Version 0.9 <a href="http://userscripts.org/scripts/show/125828" target="_blank" style="float:right;">Check for Update</a></p>');
   $container.append('<p>Each time you hear a track, a download link for that track will appear below. <span style="font-weight:bold">Right-click</span> the <span style="font-weight:Bold">DOWNLOAD</span> button and click <span style="font-weight:bold">Save Link As</span> (in some browsers you can just click the download link and it will start). You can click the song name and hit <span style="font-weight:bold">Crt-C</span> to copy, then name the file accordingly.</p>');
 
   $songRepeatBtn = $('<a id="song_repeat" class="white_button">Turn on Repeat</a>').click(ToggleRepeat).appendTo($container);
