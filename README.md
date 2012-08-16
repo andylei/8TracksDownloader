@@ -12,7 +12,7 @@ A javascript extension that extends the functionality of 8Tracks.com by allowing
 <p>The latest version of Chrome does not allow you to install userscripts from userscripts.org.</p>
 <p>I'm currently working on pushing this to the Google Chrome Web Store, but until then here is a guide to help you get started</p>
 
-<p>The method below is deprecated, you should download it from the Chrome Web Store via the link above.</p>
+<p><b>The method below is deprecated, you should download it from the Chrome Web Store via the link above.</b></p>
 <ul>
   <li>Download <a href="https://raw.github.com/Overload119/8TracksDownloader/master/script.js">manifest.json</a> and <a href="https://raw.github.com/Overload119/8TracksDownloader/master/manifest.json">script.js</a>.To download it to your computer, click the Wrench icon on the top right and click <b>Save page as.</b></li>
   <li>Now create a new empty folder and move the files you just downloaded into it.</li>
